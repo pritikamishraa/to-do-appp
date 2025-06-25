@@ -1,0 +1,106 @@
+.container{
+  
+  padding-top: 50px;
+  padding-bottom: 100px;
+  width: 600px;
+  display: flex;
+ flex-direction: column;
+ 
+ align-items: center;
+ border: 3px solid white;
+ background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+background-image: linear-gradient(to right top, #000000, #110e0e, #1b1817, #25211e, #2d2a25, #34302a, #3b352f, #423b34, #493e3a, #4f4142, #53454b, #534a54);
+ 
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+background-image: linear-gradient(to right top, #000000, #0d0c0c, #151415, #1c1b1d, #222224, #262729, #2b2c2f, #2f3134, #323638, #363a3c, #3a3f3f, #3f4343);
+
+
+}
+.h1{
+   
+
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+   "wdth" 100;
+   color: white;
+  
+   
+   
+
+}
+
+.h3{
+  
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+   "wdth" 100;
+   color: white;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    background-image: linear-gradient(to right top, #7eccdc, #71c6d9, #63c0d6, #55bad4, #44b4d1);
+    
+}
+#input{
+width: 300px;
+height: 35px;
+font-size: larger;
+ background-image: linear-gradient(to top, #e8eeef 0%, #043b93 100%);
+
+
+}
+.button{
+height: 35px;
+padding-top: 9px;
+padding-bottom: 27px;
+font-size: large;
+ background-image: linear-gradient(to top, #e8eeef 0%, #005bea 100%);
+
+
+}
+.text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    background-image: linear-gradient(to top, #e8eeef 0%, #357aea 100%);
+
+    color: rgb(24, 21, 21);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    width: 300px;
+ }
+
+ .text l{
+  position: relative;
+    background-color: rgb(5, 31, 31);
+    background-image: linear-gradient(to top, #e8eeef 0%, #b5bcc5 100%);
+
+    color:rgb(11, 9, 9);
+    font-size: 19px;
+    
+    
+    text-align: center;
+    width: 100px;
+    height: 30px;
+   
+ }
+  
+ .text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }
+
